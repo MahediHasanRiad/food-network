@@ -44,10 +44,11 @@ body{
     width: 50%;
 }
 button{
-    padding: 10px 15px;
-    background-image: linear-gradient(rgb(54, 167, 101), rgb(134, 168, 147));
+    padding: 10px 20px;
+    background-image: linear-gradient(rgba(54, 167, 101, 0.651), rgb(134, 168, 147));
     border-radius: 20px;
     margin-top: 10px;
+    color: black;
 }
 .mid-section{
     display: flex;
